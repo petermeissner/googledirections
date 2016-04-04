@@ -1,0 +1,13 @@
+Package: googledirections
+Type: Package
+Title: Binding google directions api to R
+Version: 0.1.0
+Author: Peter Meissner
+Maintainer: Peter Meissner <retep.meissner@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+LazyData: TRUE
+Imports:
+    httr,
+    digest
+RoxygenNote: 5.0.1

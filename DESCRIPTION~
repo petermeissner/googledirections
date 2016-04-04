@@ -1,0 +1,13 @@
+Package: buyinghouse
+Type: Package
+Title: scoring houses depending on location and price
+Version: 0.1.0
+Author: peter meissner
+Maintainer: Who to complain to <retep.meissner@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: contact for licencing
+LazyData: TRUE
+Imports:
+    httr,
+    digest
+RoxygenNote: 5.0.1
